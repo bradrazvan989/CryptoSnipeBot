@@ -1,2 +1,7 @@
-python-telegram-bot==13.7
-requests
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "start": "python main.py"
+}
