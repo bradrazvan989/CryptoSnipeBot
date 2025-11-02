@@ -3,5 +3,5 @@
   "build": {
     "builder": "NIXPACKS"
   },
-  "start": "python main.py"
+  "start": "python3 main.py"
 }
